@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.2</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cg.shoppingcart</groupId>
 	<artifactId>product</artifactId>
@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<jsonassert.version>1.4.0</jsonassert.version>
-		<powermock.version>2.0.4</powermock.version>
+		<powermock.version>2.0.9</powermock.version>
 
 		<wiremock.version>2.14.0</wiremock.version>
 		<rest-assured.version>3.0.6</rest-assured.version>
